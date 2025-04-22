@@ -19,6 +19,6 @@
   color: '#1D9BF0'
 
 - name: soundcloud
-  url: https://x.com/hashkush
-  icon: tdesign:sound
-  color: '#F68C7B'
+  url: https://soundcloud.com/hashpipe
+  icon: ri:soundcloud-fill
+  color: '#FD6E00'
