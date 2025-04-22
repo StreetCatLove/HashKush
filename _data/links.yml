@@ -3,17 +3,21 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
-    - title: ManaPua on Kick
-      url: https://kick.com/manapuagames
+    - title: HashKush on Kick
+      url: https://kick.com/hashkush
       icon: tdesign:letters-k # Icons are optional
 
-    - title: ManaPua on BlueSky
-      url: https://bsky.app/profile/manapuaofficial.bsky.social
+    - title: HashKush on BlueSky
+      url: https://bsky.app/profile/hashkush.bsky.social
       icon: tdesign:cloudy-sunny # Icons are optional
 
-    - title: ManaPua on Youtube
-      url: https://youtube.com/@manapuaofficial
+    - title: HashKush on Youtube
+      url: https://www.youtube.com/@amamhurley
       icon: tdesign:film # Icons are optional
+
+    - title: HashKush on SoundCloud
+      url: https://soundcloud.com/hashpipe
+      icon: tdesign:sound # Icons are optional   
 
     - title: Divest From Twitch
       url: https://streetcatlove.github.io/hellostreetcat/divest
